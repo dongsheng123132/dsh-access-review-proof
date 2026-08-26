@@ -1,0 +1,5 @@
+- insert:
+    - id: dsh-access-review-proof
+      name: dsh-access-review-proof
+      config:
+        workspaceRoot: .

@@ -1,0 +1,20 @@
+{
+  "name": "dsh-access-review-proof",
+  "version": "0.1.0",
+  "description": "Offline proof that a supplied access-review campaign closes every declared entitlement",
+  "author": { "name": "dongsheng123132" },
+  "homepage": "https://github.com/dongsheng123132/dsh-access-review-proof",
+  "repository": "https://github.com/dongsheng123132/dsh-access-review-proof",
+  "license": "MIT",
+  "keywords": ["deepseek-harness", "dsh", "access-review", "recertification", "evidence"],
+  "interface": {
+    "displayName": "DSH Access Review Proof",
+    "shortDescription": "Verify supplied entitlement-review closure.",
+    "longDescription": "Checks complete entitlement coverage, risk-based stages, reviewer independence, keep/revoke closure, observer diversity and a fresh post-review snapshot without changing access or querying live identity systems.",
+    "developerName": "dongsheng123132",
+    "category": "Developer Tools",
+    "capabilities": ["MCP tools", "DSH tools", "offline verification"],
+    "defaultPrompt": "Verify this explicit access-review evidence without approving, revoking or querying live access."
+  },
+  "mcpServers": "./.mcp.json"
+}
