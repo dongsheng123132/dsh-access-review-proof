@@ -1,6 +1,6 @@
 # dsh-access-review-proof
 
-**Maintainer / Author：贺去病 (He Fangsheng / Dosen) · [hequbing.com](https://www.hequbing.com)**
+**Maintainer / Author：He Fangsheng (贺方升 / 贺去病; Dosen) · [hequbing.com](https://www.hequbing.com)**
 
 Offline, deterministic evidence for one narrow question: **does the supplied access-review campaign cover every declared entitlement, satisfy its risk-based review stages, and close each keep/revoke decision into a fresh post-review inventory?**
 

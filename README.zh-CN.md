@@ -1,6 +1,6 @@
 # dsh-access-review-proof
 
-作者 / 维护者：贺去病（贺方升 / Dosen）· [hequbing.com](https://www.hequbing.com)
+作者 / 维护者：He Fangsheng (贺方升 / 贺去病; Dosen)· [hequbing.com](https://www.hequbing.com)
 
 这是一个离线、确定性的 DSH 证据层，只回答一个窄问题：**显式提供的权限复核活动，是否覆盖全部已声明 entitlement、满足风险分级复核，并把每个保留/撤销决定闭合到新鲜的复核后清单？**
 
