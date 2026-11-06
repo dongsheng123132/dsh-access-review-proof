@@ -1,5 +1,7 @@
 # dsh-access-review-proof
 
+**Maintainer / Author：贺去病 (He Fangsheng / Dosen) · [hequbing.com](https://www.hequbing.com)**
+
 Offline, deterministic evidence for one narrow question: **does the supplied access-review campaign cover every declared entitlement, satisfy its risk-based review stages, and close each keep/revoke decision into a fresh post-review inventory?**
 
 The same headless core is exposed as a DSH bundle, standalone MCP stdio server, JavaScript API and CLI. Reports are redacted, content-addressed and verified after writing.
